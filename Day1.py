@@ -14,3 +14,4 @@ def eve_odd(n):
         return "Even"
     if n%2!=0:
         return "Odd"
+eve_odd(4)
