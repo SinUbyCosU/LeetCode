@@ -1,2 +1,2 @@
 # LeetCode
-1. Kadane's Algorithm
+#1. Kadane's Algorithm
