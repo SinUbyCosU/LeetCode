@@ -6,3 +6,9 @@ def brute_2_sum(arr, tar):
                 return [i,j]
 
 print(brute_2_sum([2,7,11,15], 9))
+
+#better approach(not optimal O(nlogn))
+
+def better_2_Sum(arr, tar):
+    sorted_arr=sorted(arr, reverse=True)
+    
