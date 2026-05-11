@@ -6,3 +6,5 @@ def removeElement(nums,val):
             nums[i]=nums[j]
             i+=1
     return i
+
+#test
