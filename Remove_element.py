@@ -1,8 +1,8 @@
 #remove element
 def removeElement(nums,val):
     i=0
-    for val in range(len(nums)):
-        if val!=nums[i]:
-            nums[i]=nums[val]
+    for j in range(len(nums)):
+        if nums[j]!=val:
+            nums[i]=nums[j]
             i+=1
-        return i
+    return i
