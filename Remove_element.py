@@ -8,3 +8,5 @@ def removeElement(nums,val):
     return i
 
 #test
+
+print(removeElement([3,2,2,3], 3))
