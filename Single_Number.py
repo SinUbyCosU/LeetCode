@@ -1,3 +1,4 @@
+# duplicate in arr
 def dup(nums):
     for num in nums:
         single^=nums
