@@ -10,5 +10,6 @@ def isValidstr(stack):
             else:
                 stack.append(char)
         return not stack
+#test
 isValidstr("()[]{}")
 isValidstr("([)]")
