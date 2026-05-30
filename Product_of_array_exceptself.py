@@ -9,3 +9,5 @@ def productExceptSelfBruteForce(nums):
                 product*=nums[j]
                 result.append(product)
             return result
+
+#Optimal Solution
