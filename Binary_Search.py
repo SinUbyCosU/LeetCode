@@ -11,3 +11,7 @@ def Binary_Search(arr, target):
     return -1
 
     #test
+
+    arr=[1,2,3,4,5,6,7,8,9]
+    target=5
+    
