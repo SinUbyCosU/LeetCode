@@ -10,4 +10,3 @@ def Majority_element(nums):
 print(Majority_element([2,2,1,1,1,2,2]))
 
 
-#Revison Round
