@@ -1,2 +1,2 @@
 # LeetCode
-Resrating this repo again?Lets see how that goes uhuh
+Restarting this repo again?Lets see how that goes uhuh
