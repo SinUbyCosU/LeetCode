@@ -5,7 +5,7 @@ def positive(num):
     while i<n:
         if num[i]>=0:
             i=i+1
-        else:
+        else
             count+=1
             current_sum=num[i]
             j=i+1
